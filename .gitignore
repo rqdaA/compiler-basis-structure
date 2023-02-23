@@ -1,5 +1,8 @@
 *
 
+!*/
+!*.sm*
 !.gitignore
-!*.smi
-!*.sml
+!README.md
+
+answers/
